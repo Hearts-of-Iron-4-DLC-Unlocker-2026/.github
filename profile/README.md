@@ -1,13 +1,6 @@
 # **HoI4Unlocker: Automatic Hearts of Iron 4 DLC Unlocker & Activator**
 
-**HoI4Unlocker** is an all-in-one tool for unlocking DLC for Hearts of Iron 4. It allows users to unlock all DLC for FREE and AUTOMATICALLY. Thanks to auto-updates and the ability to download files from the server, the program does not need to be re-downloaded every time new versions of the game and DLC are released. Once downloaded, the program will automatically load the necessary files.
-
-**What this will save you from:**
-- Steam connection error
-- Authenticity check error for DLC in the launcher
-- Launcher crashes
-- Game's inability to detect DLC
-- Need to figure out anything
+**HoI4Unlocker** is an all-in-one tool for unlocking DLC for Hearts of Iron 4. It allows users to unlock all DLC for FREE and AUTOMATICALLY. Once downloaded/reopened, the program will automatically load the necessary files.
 
 ---
 
@@ -20,6 +13,16 @@
 * **Format:** `.zip` archive
 
 > Linux and macOS support may vary depending on the current release.
+
+---
+
+**What this will save you from:**
+- Steam connection error
+- Authenticity check error for DLC in the launcher
+- Launcher crashes
+- Game's inability to detect DLC
+- Need to figure out anything
+
 
 ---
 
